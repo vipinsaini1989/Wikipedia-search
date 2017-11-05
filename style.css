@@ -1,0 +1,15 @@
+.header1 {
+	background-color: darkgrey;
+	color: white;
+
+}
+ul li {
+	text-align: left;
+	list-style-type: none;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 2%;
+}
+li:nth-child(odd) {
+	background-color: darkgrey;
+}
